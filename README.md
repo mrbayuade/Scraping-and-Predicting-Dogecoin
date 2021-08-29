@@ -21,5 +21,6 @@ Based on results I can conclude that :
 2. Based on weekly I can see the lowest close price is on tuesday and the higgest is on friday.
 3. Based on yearly, the lowest close price is on april and december, and the highest is on may. 
 
+![](E:\Git\Figure_2.png)
 ![](E:\Git\Figure_1.png)
 ![](E:\Git\Figure_3.png)
