@@ -24,3 +24,5 @@ Based on results I can conclude that :
 ![](E:\Git\Figure_2.png)
 ![](E:\Git\Figure_1.png)
 ![](E:\Git\Figure_3.png)
+
+<img src="https://user-images.githubusercontent.com/89618021/131234802-2f4de639-8e11-4226-a5be-c91b49a3eae6.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/89618021/131234807-b427f9d1-715a-4125-b160-7855592727e9.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/89618021/131234810-2b455316-5c6b-4c3b-b779-55caf9a1fc9f.png" width="90%"></img> 
