@@ -15,8 +15,11 @@ source : https://pypi.org/
 The historical data of Dogecoin is from  2013-04-28 until 2021-08-27,
 because in this project I scrap the data on 2021-08-29 and data in website
 always update everyday so does the scraper. You can see the codes
-on main.py file.
+on **main.py** file.
 Based on results I can conclude that :
 1. Based on trend Dogecoin close price will significantly increase for next year.
 2. Based on weekly I can see the lowest close price is on tuesday and the higgest is on friday.
 3. Based on yearly, the lowest close price is on april and december, and the highest is on may. 
+
+![](E:\Git\Figure_1.png)
+![](E:\Git\Figure_3.png)
